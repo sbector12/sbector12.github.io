@@ -6,7 +6,3 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   maxZoom: 20
 }).addTo(myMap);
 
-let sfo_marker = L.marker([37.618, -122.375]).addTo(myMap);
-let oak_marker = L.marker([37.710, -122.224]).addTo(myMap);
-let sjc_marker = L.marker([37.361, -121.928]).addTo(myMap);
-
