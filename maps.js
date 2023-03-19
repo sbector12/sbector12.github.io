@@ -7,5 +7,5 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 }).addTo(myMap);
 
 //States
-let Arizona=L.marker([34.0489, -111.0937]).addTo(myMap);
+var Arizona=L.marker([34.0489, -111.0937]).addTo(myMap);
 
