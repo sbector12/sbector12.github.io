@@ -11,8 +11,8 @@ let Colombia= L.marker([4.570868, -74.297333]).addTo(myMap);
 let Iceland = L.marker([64.963051, -19.020835]).addTo(myMap);
 
 //States
-var Arizona= L.marker([33.729759, -111.431221]).addTo(myMap);
-let Alaska= L.marker([34.969704, -92.373123]).addTo(myMap);
+var Arizona= 
+let Arkansas= 
 let California=
 let Colorado=
 let Connecticut=
