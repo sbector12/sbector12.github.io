@@ -7,5 +7,12 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 }).addTo(myMap);
 
 //States
-let Arizona = L.marker([34.0489, -111.0937]).addTo(map);
+let Arizona = L.circle([34.0489, -111.0937], {
+    color: 'red',
+    fillColor: '#f03',
+    fillOpacity: 0.5,
+    radius: 500
+}).addTo(map);
+let Arkansas = L.marker([34.5574, -92.2863]).addTo(map);
+let California = L.marker
 
