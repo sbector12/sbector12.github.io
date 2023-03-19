@@ -6,3 +6,6 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   maxZoom: 20
 }).addTo(myMap);
 
+//States
+let Arizona=L.marker([34.0489, -111.0937]).addTo(myMap);
+
