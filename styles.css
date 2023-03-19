@@ -46,9 +46,9 @@ ul
     padding-left: 1px;
 }
 
-//#map
+#map
 {
     height: 90vh;
     width: 600px;
     margin: auto;
-}//
+}
