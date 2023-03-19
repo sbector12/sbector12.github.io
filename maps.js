@@ -6,7 +6,3 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   maxZoom: 20
 }).addTo(myMap);
 
-//Countries
-//let Colombia= L.marker([4.570868, -74.297333]).addTo(myMap);
-//let Iceland = L.marker([64.963051, -19.020835]).addTo(myMap);
-
