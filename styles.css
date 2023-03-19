@@ -1,5 +1,6 @@
 body
 {
+    background-color: black;
     font-family: Poppins, sans-serif;
 }
 
@@ -30,14 +31,12 @@ section
     align-items: center;
     padding-top:10px;
     padding-bottom: 10px;
-    background-color:black;
 }
 
 footer
 {
     text-align: center;
     padding: 10px;
-    background-color: black;
     color: white;
 }
 
