@@ -6,7 +6,5 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 	maxZoom: 20
 }).addTo(myMap);
 
-//let Colombia=L.marker(4.5709, -74.2973]).addTo(map);
-
 //Countries
-
+var Colombia=L.marker([5.35 , -72.4]).addTo(myMap);
