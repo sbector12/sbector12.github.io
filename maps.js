@@ -19,3 +19,5 @@ var Delaware=L.marker([39.318523, -75.507141]).addTo(myMap);
 var DC=L.marker([38.897438, -77.026817]).addTo(myMap);
 var Florida=L.marker([27.766279, -81.686783]).addTo(myMap);
 var Illinois=L.marker([40.349457, -88.986137]).addTo(myMap);
+var Indiana=L.marker([39.849426, -86.258278]).addTo(myMap);
+var Kentucky=L.marker([37.668140, -84.670067]).addTo(myMap);
