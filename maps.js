@@ -8,3 +8,13 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 
 //Countries
 var Colombia=L.marker([5.35 , -72.4]).addTo(myMap);
+
+//States
+var Arizona=L.marker([33.729759, -111.431221]).addTo(myMap);
+var Arkansas=L.marker([34.969704, -92.373123]).addTo(myMap);
+var California=L.marker([36.116203, -119.681564]).addTo(myMap);
+var Colorado=L.marker([39.059811, -105.311104]).addTo(myMap);
+var Connecticut=L.marker([41.597782, -72.755371]).addTo(myMap);
+var Delaware=L.marker([39.318523, -75.507141]).addTo(myMap);
+var DC=L.marker([38.897438, -77.026817]).addTo(myMap);
+var Florida=L.marker([27.766279, -81.686783]).addTo(myMap);
