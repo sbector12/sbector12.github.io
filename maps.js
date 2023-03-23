@@ -8,7 +8,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 
 //Countries
 var Colombia=L.marker([5.35 , -72.4]).addTo(myMap);
-var Iceland=L.marker([64.9631, 19.0208]).addTo(myMap);
+var Iceland=L.marker([64.9631, -19.0208]).addTo(myMap);
 var India=L.marker([20.5937, 78.9629]).addTo(myMap);
 
 //States
