@@ -21,3 +21,6 @@ var Florida=L.marker([27.766279, -81.686783]).addTo(myMap);
 var Illinois=L.marker([40.349457, -88.986137]).addTo(myMap);
 var Indiana=L.marker([39.849426, -86.258278]).addTo(myMap);
 var Kentucky=L.marker([37.668140, -84.670067]).addTo(myMap);
+var Louisiana=L.marker([31.169546, -91.867805]).addTo(myMap);
+var Maine=L.marker([44.693947, -69.381927]).addTo(myMap);
+var Maryland=L.marker([39.063946, -76.802101]).addTo(myMap);
