@@ -1,13 +1,13 @@
 body
 {
-    background-color: blue;
+    background-color: light-blue;
     font-family: Poppins, sans-serif;
-    color: white;
+    color: yellow;
 }
 
 nav
 {
-    background-color: blue;
+    background-color: light-blue;
     font-size: 1.25rem;
 }
 
