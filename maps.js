@@ -11,6 +11,14 @@ var Colombia=L.marker([5.35 , -72.4]).addTo(myMap);
 var Iceland=L.marker([64.9631, -19.0208]).addTo(myMap);
 var India=L.marker([20.5937, 78.9629]).addTo(myMap);
 
+//Provinces
+var NB=L.marker([46.498390, -66.159668]).addTo(myMap);
+var NS=L.marker([45.000000, -63.000000]).addTo(myMap);
+var Ontario=L.marker([50.000000, -85.000000]).addTo(myMap);
+var PEI=L.marker([46.250000, -63.000000]).addTo(myMap);
+var Quebec=L.marker(53.000000, -70.000000]).addTo(myMap);
+
+
 //States
 var Arizona=L.marker([33.729759, -111.431221]).addTo(myMap);
 var Arkansas=L.marker([34.969704, -92.373123]).addTo(myMap);
