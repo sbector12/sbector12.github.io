@@ -12,9 +12,9 @@ var Iceland=L.marker([64.9631, -19.0208]).addTo(myMap).bindPopup("Iceland");
 var India=L.marker([20.5937, 78.9629]).addTo(myMap).bindPopup("India");
 
 //Provinces
-var Manitoba=L.marker([56.415211, -98.739075]).addTo(myMap);
-var NB=L.marker([46.498390, -66.159668]).addTo(myMap);
-var NS=L.marker([45.000000, -63.000000]).addTo(myMap);
+var Manitoba=L.marker([56.415211, -98.739075]).addTo(myMap).bindPopup("Manitoba, Canada");
+var NB=L.marker([46.498390, -66.159668]).addTo(myMap).bindPopup("New Brunswick, Canada");
+var NS=L.marker([45.000000, -63.000000]).addTo(myMap).bindPopup("Nova Scotia, Canada");
 var Ontario=L.marker([50.000000, -85.000000]).addTo(myMap);
 var PEI=L.marker([46.250000, -63.000000]).addTo(myMap);
 var Quebec=L.marker([53, -70]).addTo(myMap);
