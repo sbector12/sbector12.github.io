@@ -9,7 +9,7 @@ var speech1Text = "As a part of my local Toastmasters club, someone gives a spee
 speech1.addEventListener("mouseover", function(){speech1.title = speech1Text;});
 speech1.addEventListener("mouseout", function(){speech1.title ="";});
 
-var prog1=document.getElementByID("prog1");
+var prog1=document.getElementById("prog1");
 var prog1Text= "My website is my first ever official project that I have worked on. This list will be longer in the future. :)"
 prog1.addEventListener("mouseover", function(){prog1.title = prog1Text;});
 prog1.addEventListener("mouseout", function(){prog1.title ="";});
