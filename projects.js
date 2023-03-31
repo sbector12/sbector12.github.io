@@ -6,7 +6,6 @@ pol1.addEventListener("mouseout", function(){pol1.title = "";});
 
 
 var speech1=document.getElementById("speech1");
-var speech1Text = "As a part of my local Toastmasters club, someone gives a speech talking about someone inspiring. No one volunteered to give an inspiration that meeting, so I gave a speech on the spot. A friend of mine had passed away before the meeting. I reflect on the cruel nature of this existence, and how we should use that as motivation to make the world a better place."
-
+var speech1Text = "As a part of my local Toastmasters club, someone gives a speech talking about someone inspiring. No one volunteered that meeting, so I gave a speech on the spot. As a friend of mine passed, I reflect on how cruel the world can be and how we can seek inspiration to make it better."
 speech1.addEventListener("mouseover", function(){speech1.title = speech1Text;});
 speech1.addEventListener("mouseout", function(){speech1.title ="";});
