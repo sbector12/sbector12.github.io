@@ -16,7 +16,7 @@ var Iceland=L.marker([64.9631, -19.0208]).addTo(myMap).bindPopup("Iceland");
 var India=L.marker([20.5937, 78.9629]).addTo(myMap).bindPopup("India");
 var Mexico=L.marker([23.0, -102.0]).addTo(myMap).bindPopup("Mexico");
 var Monaco=L.marker([43.7333, 7.4]).addTo(myMap).bindPopup("Monaco");
-var Montenegro=L.marker([42.0, 19.0]).addTo(myMap).bindPopup("Montenegro");
+var Montenegro=L.marker([42.7087, 19.3744]).addTo(myMap).bindPopup("Montenegro");
 var SanMarino=L.marker([43.7667, 12.4167]).addTo(myMap).bindPopup("San Marino");
 var VaticanCity=L.marker([41.9, 12.45]).addTo(myMap).bindPopup("Vatican City");
 
