@@ -7,19 +7,18 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 }).addTo(myMap);
 
 //Countries
-var Bosnia=
-var Canada=
+var BosniaHerzegovina=L.marker([44.00 , 18.00]).addTo(myMap).bindPopup("Bosnia and Herzegovina");
 var Colombia=L.marker([5.35 , -72.4]).addTo(myMap).bindPopup("Colombia");
-var Croatia=
+var Croatia=L.marker([45.1667 , 15.5]).addTo(myMap).bindPopup("Croatia");
 var France=L.marker([46.0 , 2.0]).addTo(myMap).bindPopup("France");
-var Georgia=
+var Georgia=L.marker([42.0 , 43.5]).addTo(myMap).bindPopup("Georgia");
 var Iceland=L.marker([64.9631, -19.0208]).addTo(myMap).bindPopup("Iceland");
 var India=L.marker([20.5937, 78.9629]).addTo(myMap).bindPopup("India");
-var Mexico=
-var Monaco=
-var Montenegro=
-var SanMarino=
-var VaticanCity=
+var Mexico=L.marker([23.0, -102.0]).addTo(myMap).bindPopup("Mexico");
+var Monaco=L.marker([43.7333, 7.4]).addTo(myMap).bindPopup("Monaco");
+var Montenegro=L.marker([42.0, 19.0]).addTo(myMap).bindPopup("Montenegro");
+var SanMarino=L.marker([43.7667, 12.4167]).addTo(myMap).bindPopup("San Marino");
+var VaticanCity=L.marker([41.9, 12.45]).addTo(myMap).bindPopup("Vatican City");
 
 
 //Provinces
