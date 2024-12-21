@@ -7,9 +7,20 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 }).addTo(myMap);
 
 //Countries
+var Bosnia=
+var Canada=
 var Colombia=L.marker([5.35 , -72.4]).addTo(myMap).bindPopup("Colombia");
+var Croatia=
+var France=L.marker([46.0 , 2.0]).addTo(myMap).bindPopup("France");
+var Georgia=
 var Iceland=L.marker([64.9631, -19.0208]).addTo(myMap).bindPopup("Iceland");
 var India=L.marker([20.5937, 78.9629]).addTo(myMap).bindPopup("India");
+var Mexico=
+var Monaco=
+var Montenegro=
+var SanMarino=
+var VaticanCity=
+
 
 //Provinces
 var Manitoba=L.marker([56.415211, -98.739075]).addTo(myMap).bindPopup("Manitoba, Canada");
